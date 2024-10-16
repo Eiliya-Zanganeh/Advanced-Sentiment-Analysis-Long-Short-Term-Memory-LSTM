@@ -1,4 +1,4 @@
-# Advanced sentiment analysis long short-term Memory (LSTM)
+# Advanced sentiment analysis long short-term Memory (LSTM) in Pytorch
 
 Emotion recognition project using IMDB dataset and PyTorch library. In this project, the neural network is trained to be able to recognize emotions in a text.
 
